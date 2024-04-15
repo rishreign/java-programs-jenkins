@@ -7,5 +7,7 @@ public class Main {
         System.out.println(new Date());
         System.out.println("hello");
         System.out.println("class name fixed to ");
+        Student student=new Student();
+        student.message();
     }
 }
